@@ -38,9 +38,9 @@ Feel free to use any environment of choice
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
 ### Goal for this Notebook:
-Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
+Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field Data Science or those who are already in the field and looking to see a real world analysis done with Python.
 
-#### This Notebook will show basic examples of:
+#### This Notebook will teach the following:
 #### Data Handling
 *   Importing Data with Pandas
 *   Cleaning Data
@@ -64,4 +64,4 @@ To find the basic scripts for the competition benchmarks look in the "Python Exa
 
 Competition Website: http://www.kaggle.com/c/titanic-gettingStarted
 # credit
-goes to Agconti [github repository](https://github.com/agconti/kaggle-titanic/blob/master/ReadMe.md) for the amazing markdown
+Goes to Agconti [github repository](https://github.com/agconti/kaggle-titanic/blob/master/ReadMe.md) for the amazing markdown
