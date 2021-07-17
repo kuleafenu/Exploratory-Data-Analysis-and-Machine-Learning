@@ -49,3 +49,6 @@ Show how to perform advanced Analytics and Machine Learning in Python using a fu
 #### Valuation of the Analysis
 *   K-folds cross validation to valuate results locally
 *   Output the results from the IPython Notebook to Kaggle
+#### Results obtained
+* Was able to derive excerpt insights to give pro recommendation to borrowers
+* Was able to predict applicant loan approval with *74%* accuracy
